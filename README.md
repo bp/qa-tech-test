@@ -38,6 +38,8 @@ Have your tests start and tear down the app.
 
 BDD frameworks are great, but are they always appropriate? You decide.
 
+Over time the it looks like this application has developed security vulnerabilities. Can you fix them?
+
 ## Submit your test
 Once completed push the solution up to your own repository and link BP the url along with run instructions.
 
