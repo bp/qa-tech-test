@@ -5,7 +5,7 @@ import AnswerTable from './AnswerTable.jsx';
 
 const paperStyle = {
   padding: 20,
-  height: 1100,
+  height: 2100,
   margin: 20,
   alignItems: 'center',
   textAlign: 'center',
@@ -21,7 +21,7 @@ const Challenge = () => (
 
         <h3>Below are a number of rows with integers</h3>
 
-        <p> Your job is to use selenium to read the dom and create an array data structure for each of the rows.</p>
+        <p> Your job is to use ui automation tool to read the dom and create an array data structure for each of the rows.</p>
         <p>
           Once you have each array,
           write a function that is able to return the index of the array where the sum of integers at the index on the left is equal to the sum of integers on the right.</p>
